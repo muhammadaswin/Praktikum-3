@@ -1,4 +1,6 @@
 <?hp
 	$x = "Hello World";
-	echo $x;
+	$y = "heyhooo"
+	echo = $x;
+	echo = $y;
 ?>
